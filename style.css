@@ -1,0 +1,19 @@
+h1{
+    color: orange;}
+  
+  .diminuir-imagem {
+      width: 100%;   /* Define a largura como 50% do contêiner pai */
+      height: 4520px; /* Mantém a proporção da imagem */
+  }
+  
+    .container {
+      text-align: center;
+  }
+  
+  .container img {
+      display: inline-block; /* Necessário se a imagem estiver com display:block por padrão */
+  }
+   .diminuir-imagem {
+      width: 100%;   /* Define a largura como 50% do contêiner pai */
+      height: 500px; /* Mantém a proporção da imagem */
+   }
